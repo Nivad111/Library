@@ -6,6 +6,7 @@
 #include <Windows.h>
 using namespace std;
 
+//Изменения в коде
 struct book
 {
 	string author;
